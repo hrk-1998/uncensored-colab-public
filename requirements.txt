@@ -1,0 +1,4 @@
+gradio
+ddgs
+huggingface_hub
+llama-cpp-python
